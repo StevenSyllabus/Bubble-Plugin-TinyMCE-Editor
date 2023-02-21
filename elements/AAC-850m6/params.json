@@ -1,0 +1,24 @@
+{
+    "add_hover_pressed": true,
+    "add_is_visible": true,
+    "autobinding_value": "text",
+    "can_fit_height": true,
+    "can_fit_width": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 200,
+        "width": 400
+    },
+    "display": "Tiny Editor",
+    "icon": "ion-android-laptop",
+    "property_applications": {
+        "Background": true,
+        "Border": true,
+        "BoxShadow": true,
+        "Font": true,
+        "MinWidth": true,
+        "Padding": true,
+        "resizable": true
+    },
+    "support_autobinding": true
+}
