@@ -10,6 +10,19 @@
         "width": 400
     },
     "display": "Tiny Editor",
+    "events": {
+        "AAG": {
+            "caption": "New event",
+            "name": "new_event"
+        }
+    },
+    "fields": {
+        "AAE": {
+            "caption": "My field 1",
+            "name": "my_field_1",
+            "rank": 0
+        }
+    },
     "icon": "ion-android-laptop",
     "property_applications": {
         "Background": true,
@@ -19,6 +32,16 @@
         "MinWidth": true,
         "Padding": true,
         "resizable": true
+    },
+    "states": {
+        "AAF": {
+            "caption": "my state 1",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "my_state_1",
+            "value": "text"
+        }
     },
     "support_autobinding": true
 }
